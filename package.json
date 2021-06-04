@@ -1,7 +1,7 @@
 {
   "name": "weni-chat",
   "productName": "Weni Chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Weni Chat",
   "main": "main.js",
   "scripts": {
